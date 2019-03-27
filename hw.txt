@@ -11,4 +11,4 @@ What does the step into command do?
 -Will switch to the method and pause at the top of that method.
 
 What is the difference between evaluate expression and evaluate code fragment?
--They are the same.
+-They are almost the same. In the code fragment you can almost write in JAVA.
